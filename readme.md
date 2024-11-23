@@ -1,3 +1,3 @@
-> .[!Note].
-> Hello, Git!
+> .[!NOTE].
+> Hello, Git
 - I'm adding this from 'feature-branch'
